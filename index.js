@@ -9,6 +9,6 @@
 var x = 1;
 var y = 80;
 var z = x + y;
-document.function add() {
+function add() {
   return z
 }
