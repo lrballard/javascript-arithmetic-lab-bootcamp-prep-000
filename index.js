@@ -6,7 +6,7 @@
 //function subract()
 //function multiply()
 //function divide()
-funcation add() {
+function add() {
   var x = 1
   var y = 80
   var z = x+y
