@@ -7,8 +7,8 @@
 //function multiply()
 //function divide()
 function add() {
-  var x = 1
-  var y = 80
-  var z = x+y
-  return x+y
+  var x = 1;
+  var y = 80;
+  var z = x+y;
+  return x+y;
 }
