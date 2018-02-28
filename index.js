@@ -6,9 +6,4 @@
 //function subract()
 //function multiply()
 //function divide()
-var x = 1;
-var y = 80;
-var z = x + y;
-function add() {
-  return z
-}
+
