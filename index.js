@@ -10,5 +10,5 @@ function add() {
   var x = 1;
   var y = 80;
   var z = x+y;
-  return x+y;
+  return z;
 }
